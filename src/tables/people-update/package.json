@@ -1,0 +1,6 @@
+{
+  "name": "testapp-people-update",
+  "dependencies": {
+    "@architect/functions": "^1.6.2"
+  }
+}
